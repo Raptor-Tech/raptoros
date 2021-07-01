@@ -13,8 +13,7 @@ logicFields:
   - doc_sections.sections
   - docs.weight
 backend:
-  name: git
-  repo: Raptor-Tech/raptoros
+  name: git-gateway
   branch: master
 models:
   config:
