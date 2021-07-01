@@ -38,15 +38,15 @@ Superset is our data visualization tool. 
 
 #### Hostname  
 
-192.168.1.40 
+**192.168.1.40 **
 
 #### Port 
 
-8088
+**8088**
 
-URL
+#### URL
 
-[superset.raptortech.io](superset.raptortech.io)
+[**superset.raptortech.io**](superset.raptortech.io)
 
 ### HTML example
 
