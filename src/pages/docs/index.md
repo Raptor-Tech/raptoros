@@ -1,24 +1,24 @@
 ---
-title: Welcome to Libris
+title: Welcome to RaptorOS
 seo:
   type: stackbit_page_meta
-  title: Welcome to Libris
+  title: Welcome to RaptorOs
   description: This is the documentation page
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Welcome to Libris
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: This is the documentation page
       keyName: property
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Welcome to Libris
-    - name: 'twitter:description'
+    - name: twitter:description
       value: This is the documentation page
 template: docs
 ---
