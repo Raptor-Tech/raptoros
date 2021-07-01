@@ -12,6 +12,10 @@ logicFields:
   - doc_sections.root_docs_path
   - doc_sections.sections
   - docs.weight
+backend:
+  name: git-gateway
+  repo: PedroPini/test
+  branch: master
 models:
   config:
     type: config
