@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Apps Overview
 weight: 1
 seo:
   type: stackbit_page_meta
