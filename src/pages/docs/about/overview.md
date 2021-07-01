@@ -60,6 +60,10 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 
 Superset is our data visualization tool. 
 
+#### Repository URL
+
+<https://bitbucket.org/raptortech/superset/src>
+
 #### Hostname  
 
 192.168.1.40 
