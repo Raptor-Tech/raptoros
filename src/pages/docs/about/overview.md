@@ -28,6 +28,32 @@ template: docs
   This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
+
+
+## Nginx Proxy Manager
+
+\<hr>
+
+#### Description 
+
+Nginx web interface to control reverse proxy and apps ssl certificates
+
+#### Repository URL
+
+<https://bitbucket.org/raptortech/nginx/src/master/>
+
+#### Hostname  
+
+192.168.1.41
+
+#### Port 
+
+81
+
+#### URL
+
+[nginx.raptortech.io](superset.raptortech.io)
+
 ## Apache Superset
 
 <hr>
