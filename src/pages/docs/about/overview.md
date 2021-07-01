@@ -76,6 +76,36 @@ Superset is our data visualization tool. 
 
 <https://superset.raptortech.io>
 
+
+
+## Netdata Monitoring
+
+\<hr>
+
+#### Description 
+
+NetData is our monitoring system
+
+#### Repository URL
+
+<https://bitbucket.org/raptortech/monitoring/src/master/>
+
+#### Hostname  
+
+192.168.1.53
+
+#### Port 
+
+19999
+
+#### URL
+
+<https://monitoring.raptortech.io>
+
+
+
+
+
 ### HTML example
 
 Copy the code and modify these blocks according to your needs.
