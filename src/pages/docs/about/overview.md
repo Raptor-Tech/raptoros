@@ -50,7 +50,7 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 
 #### URL
 
-[nginx.raptortech.io](superset.raptortech.io)
+<https://nginx.raptortech.io>
 
 ## Apache Superset
 
@@ -74,7 +74,7 @@ Superset is our data visualization tool. 
 
 #### URL
 
-[superset.raptortech.io](superset.raptortech.io)
+<https://superset.raptortech.io>
 
 ### HTML example
 
