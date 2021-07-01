@@ -30,7 +30,7 @@ template: docs
 
 ## Nginx Proxy Manager
 
-*\<hr/>*
+*\</hr>*
 
 #### Description 
 
