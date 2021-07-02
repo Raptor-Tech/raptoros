@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hero Section
+    title: RAPTOR
     section_id: hero
     image: /images/albert-hyseni-jH9eDAc35jw-unsplash.jpg
     content: >-
