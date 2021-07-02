@@ -5,9 +5,9 @@ sections:
     title: RAPTOR CORE
     section_id: hero
     image: /images/albert-hyseni-jH9eDAc35jw-unsplash.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A new technology to mining pitches, created to enhance scalability,
+      tracking and safety on sites.
     actions:
       - type: action
         label: Get Started
