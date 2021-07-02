@@ -29,16 +29,6 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - type: action
-            label: View Posts
-            url: /blog
-            style: link
-      - type: grid_item
         title: Style Guide
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
