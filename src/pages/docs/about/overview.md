@@ -30,8 +30,6 @@ template: docs
 
 ## Nginx Proxy Manager
 
-**
-
 #### Description 
 
 Nginx web interface to control reverse proxy and apps ssl certificates
@@ -53,8 +51,6 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 <https://nginx.raptortech.io>
 
 ## Apache Superset
-
-
 
 #### Description 
 
@@ -78,8 +74,6 @@ Superset is our data visualization tool. 
 
 ## Netdata Monitoring
 
-
-
 #### Description 
 
 NetData is our monitoring system
@@ -102,11 +96,9 @@ NetData is our monitoring system
 
 ## Postgres/PgAdmin
 
-
-
 #### Description 
 
- Postgres database and admin interface 
+Postgres database and admin interface
 
 #### Repository URL
 
@@ -123,8 +115,6 @@ NetData is our monitoring system
 #### URL
 
 <https://pgadmin.raptortech.io>
-
-
 
 ### HTML example
 
