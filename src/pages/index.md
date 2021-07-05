@@ -40,7 +40,7 @@ sections:
             url: /style-guide
             style: link
   - type: section_content
-    title: A Section With An Image
+    title: E2E Business integration
     section_id: text-img
     image: images/jamstack.svg
     image_position: left
