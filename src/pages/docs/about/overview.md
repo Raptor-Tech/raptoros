@@ -30,9 +30,9 @@ template: docs
 
 
 
-![](/\_static/app-assets/nginx.png)
-
 ## Nginx Proxy Manager
+
+![](/\_static/app-assets/rainy-turtle.png)
 
 #### Description 
 
