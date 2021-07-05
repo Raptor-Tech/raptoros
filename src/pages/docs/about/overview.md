@@ -138,8 +138,6 @@ webhook server created with node js to handle pybytes webhook and also listening
 
 <https://pycom.raptortech.io>
 
-
-
 ## FTP
 
 #### Description 
@@ -160,7 +158,7 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 #### URL
 
-<ftp://ftp.raptortech.io>
+On filezilla place this url
 
-
+[ftp.raptortech.io](ftp.raptortech.io)
 
