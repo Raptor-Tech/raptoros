@@ -23,8 +23,6 @@ seo:
       value: This is the overview page
 template: docs
 ---
-
-
 ## Nginx Proxy Manager
 
 ![](https://nginxproxymanager.com/logo.png)
@@ -167,6 +165,6 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 #### URL
 
-On filezilla place this url
+\<div class="note">\<strong>Note:\</strong> When acessing filezilla you can use the url or IP address\</div>
 
 [ftp.raptortech.io](ftp.raptortech.io)
