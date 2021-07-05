@@ -92,5 +92,6 @@
       }
     ]
   },
-  "domain": "https://documentation.raptortech.io"
+  "domain": "https://documentation.raptortech.io",
+  "favicon": "/images/raptoros.png"
 }
