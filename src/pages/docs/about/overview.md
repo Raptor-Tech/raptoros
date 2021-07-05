@@ -32,8 +32,6 @@ template: docs
 
 
 
-
-
 #### Description 
 
 Nginx web interface to control reverse proxy and apps ssl certificates
@@ -174,4 +172,4 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 On filezilla place this url
 
-[ftp.raptortech.io![](https://nginxproxymanager.com/logo.png)](ftp.raptortech.io)![](https://nginxproxymanager.com/logo.png)
+[ftp.raptortech.io![](https://nginxproxymanager.com/logo.png)](ftp.raptortech.io)![](https://nginxproxymanager.com/logo.png)![](https://nginxproxymanager.com/logo.png)
