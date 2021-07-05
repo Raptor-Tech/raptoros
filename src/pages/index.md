@@ -44,10 +44,9 @@ sections:
     section_id: text-img
     image: images/jamstack.svg
     image_position: left
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      RaptorCore idealization is to automate and facilitate the daily tasks,
+      turning a machine on or off, with just  your smartphone.
     actions:
       - type: action
         label: View Demo
