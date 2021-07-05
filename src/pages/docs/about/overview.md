@@ -28,8 +28,6 @@ template: docs
   This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
-
-
 ## Nginx Proxy Manager
 
 ![](/\_static/app-assets/rainy-turtle.png)
@@ -56,6 +54,8 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 
 ## Apache Superset
 
+![](/\_static/app-assets/superset.png)
+
 #### Description 
 
 Superset is our data visualization tool. 
@@ -77,6 +77,8 @@ Superset is our data visualization tool. 
 <https://superset.raptortech.io>
 
 ## Netdata Monitoring
+
+![](/\_static/app-assets/netdata.png)
 
 #### Description 
 
@@ -100,6 +102,8 @@ NetData is our monitoring system
 
 ## Postgres/PgAdmin
 
+![](/\_static/app-assets/postgres.png)
+
 #### Description 
 
 Postgres database and admin interface
@@ -122,6 +126,8 @@ Postgres database and admin interface
 
 ## Pycom(WebServer)
 
+![](/\_static/app-assets/node.png)
+
 #### Description 
 
 webhook server created with node js to handle pybytes webhook and also listening to mqtt topics
@@ -143,6 +149,8 @@ webhook server created with node js to handle pybytes webhook and also listening
 <https://pycom.raptortech.io>
 
 ## FTP
+
+![](/\_static/app-assets/ftp.png)
 
 #### Description 
 
