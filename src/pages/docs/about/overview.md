@@ -165,9 +165,9 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 #### URL
 
-
-
-
+\<div class="note">\<strong>Note:\</strong>You can use either the url bellow or the IP Address above\</div>
 
 [ftp.raptortech.io](ftp.raptortech.io)
+
+
 
