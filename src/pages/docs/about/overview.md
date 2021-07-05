@@ -32,8 +32,6 @@ template: docs
 
 ![](https://nginxproxymanager.com/logo.png)
 
-
-
 #### Description 
 
 Nginx web interface to control reverse proxy and apps ssl certificates
@@ -56,7 +54,9 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 
 ## Apache Superset
 
-![](/\_static/app-assets/superset.png)
+
+
+![](https://assets-global.website-files.com/5f1c75e63b2f950eb473d3e4/6074a31575b7070ae2d89b6a\_60637aaa931b346de4e721e2\_apache-superset-200x200.png)
 
 #### Description 
 
@@ -80,7 +80,9 @@ Superset is our data visualization tool. 
 
 ## Netdata Monitoring
 
-![](/\_static/app-assets/netdata.png)
+
+
+![](https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png)
 
 #### Description 
 
@@ -104,7 +106,7 @@ NetData is our monitoring system
 
 ## Postgres/PgAdmin
 
-![](/\_static/app-assets/postgres.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--0DU6X2of--/c_imagga_scale,f_auto,fl_progressive,h\_1080,q_auto,w\_1080/https://dev-to-uploads.s3.amazonaws.com/i/vdj2zzqchoxcs654lz9s.png)
 
 #### Description 
 
@@ -128,7 +130,7 @@ Postgres database and admin interface
 
 ## Pycom(WebServer)
 
-![](/\_static/app-assets/node.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
 
 #### Description 
 
@@ -152,7 +154,7 @@ webhook server created with node js to handle pybytes webhook and also listening
 
 ## FTP
 
-![](/\_static/app-assets/ftp.png)
+![](https://cdn.sisense.com/wp-content/uploads/FTP\_\__FTPS12.png)
 
 #### Description 
 
@@ -174,4 +176,4 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 On filezilla place this url
 
-[ftp.raptortech.io](ftp.raptortech.io)![](https://nginxproxymanager.com/logo.png)
+[ftp.raptortech.io](ftp.raptortech.io)
