@@ -30,7 +30,9 @@ template: docs
 
 ## Nginx Proxy Manager
 
-![](/\_static/app-assets/nginx.png)
+![](https://nginxproxymanager.com/logo.png)
+
+
 
 #### Description 
 
@@ -172,4 +174,4 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 On filezilla place this url
 
-[ftp.raptortech.io![](https://nginxproxymanager.com/logo.png)](ftp.raptortech.io)![](https://nginxproxymanager.com/logo.png)![](https://nginxproxymanager.com/logo.png)
+[ftp.raptortech.io](ftp.raptortech.io)![](https://nginxproxymanager.com/logo.png)
