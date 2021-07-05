@@ -28,6 +28,10 @@ template: docs
   This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
+
+
+![](/\_static/app-assets/nginx.png)
+
 ## Nginx Proxy Manager
 
 #### Description 
@@ -161,4 +165,3 @@ Ftp server for hosting files to be uploaded to pycom devices
 On filezilla place this url
 
 [ftp.raptortech.io](ftp.raptortech.io)
-
