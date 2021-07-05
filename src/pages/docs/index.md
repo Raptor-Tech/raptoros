@@ -26,8 +26,6 @@ The best way to describe RaptorOs is to think in a ecossystem, when you have our
 
 ***
 
-***
-
 ## Infrastructure 
 
 The application is uncoupled, modularized and containerized, meaning all our applications are hosted in a virtual machine running docker, so no hard setups or complex installations just simply docker and docker-compose running on the machine. 
