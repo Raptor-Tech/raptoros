@@ -19,10 +19,10 @@ sections:
     grid_items:
       - type: grid_item
         title: Documentation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          In the documentation section you're going to find what is RaptorOs,
+          where the applications are hosted, Getting started, UI components,
+          tools and where to get support
         actions:
           - type: action
             label: Get Started
