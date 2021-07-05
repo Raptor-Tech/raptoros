@@ -116,8 +116,6 @@ Postgres database and admin interface
 
 <https://pgadmin.raptortech.io>
 
-
-
 ## Pycom(WebServer)
 
 #### Description 
@@ -139,6 +137,30 @@ webhook server created with node js to handle pybytes webhook and also listening
 #### URL
 
 <https://pycom.raptortech.io>
+
+
+
+## FTP
+
+#### Description 
+
+Ftp server for hosting files to be uploaded to pycom devices
+
+#### Repository URL
+
+<https://bitbucket.org/raptortech/ftp/src/master/>
+
+#### Hostname  
+
+192.168.1.239
+
+#### Ports
+
+21
+
+#### URL
+
+<ftp://ftp.raptortech.io>
 
 
 
