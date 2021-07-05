@@ -165,10 +165,6 @@ Ftp server for hosting files to be uploaded to pycom devices
 
 #### URL
 
-\<div class="note">
-
-\<strong>Note:\</strong>When acessing filezilla you can use the url or IP address
-
-\</div>
+\<div class="note">\<strong>Note:\</strong> Both of the features you used above are parts of the Document Object Model (DOM) API, which allows you to manipulate documents.\</div>
 
 [ftp.raptortech.io](ftp.raptortech.io)
