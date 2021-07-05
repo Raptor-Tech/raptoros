@@ -30,10 +30,10 @@ sections:
             style: link
       - type: grid_item
         title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Style Guide are some guidelines for creating content in the page such
+          as how to create tables, code blocks, embed videos, lists and
+          typography
         actions:
           - type: action
             label: Learn More
