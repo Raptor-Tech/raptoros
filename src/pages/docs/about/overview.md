@@ -23,10 +23,7 @@ seo:
       value: This is the overview page
 template: docs
 ---
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+
 
 ## Nginx Proxy Manager
 
@@ -54,8 +51,6 @@ Nginx web interface to control reverse proxy and apps ssl certificates
 
 ## Apache Superset
 
-
-
 ![](https://assets-global.website-files.com/5f1c75e63b2f950eb473d3e4/6074a31575b7070ae2d89b6a\_60637aaa931b346de4e721e2\_apache-superset-200x200.png)
 
 #### Description 
@@ -79,8 +74,6 @@ Superset is our data visualization tool. 
 <https://superset.raptortech.io>
 
 ## Netdata Monitoring
-
-
 
 ![](https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png)
 
