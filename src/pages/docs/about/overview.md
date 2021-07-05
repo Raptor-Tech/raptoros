@@ -30,7 +30,7 @@ template: docs
 
 ## Nginx Proxy Manager
 
-
+![](/\_static/app-assets/nginx.png)
 
 #### Description 
 
